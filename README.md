@@ -16,4 +16,4 @@ The model is implemented using Python3 with dependencies specified in requiremen
 - ripser==0.4.1
 - persim==0.1.1
 ## Dataset
-The observed meteorological data used in this study are available from ([WeatherBench](https://github.com/pangeo-data/WeatherBench)).
+The observed meteorological data used in this study are available from [WeatherBench](https://github.com/pangeo-data/WeatherBench).
