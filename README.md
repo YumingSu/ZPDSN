@@ -1,5 +1,5 @@
 # ZPDSN: Spatio-Temporal Meteorological Forecasting with Topological Data Analysis
-This is a PyTorch implementation of the paper : ZPDSN: Spatio-Temporal Meteorological Forecasting with Topological Data Analysis (submitted to [Computers and Geosciences](https://www.sciencedirect.com/journal/computers-and-geosciences)) 
+This is a PyTorch implementation of the paper : ZPDSN: Spatio-Temporal Meteorological Forecasting with Topological Data Analysis (submitted to [Applied Intelligence](https://link.springer.com/journal/10489)) 
 ## Hardware and Software Requirements
 This code was tested on a system with the following specifications:
 - Memory (RAM): 32GB
